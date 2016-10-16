@@ -1,13 +1,13 @@
 ﻿body {
-    background-color:palevioletred;
-    color:rebeccapurple;
+    background-color:cornflowerblue;
+    color:white;
     text-align:center;
 }
 
 .box
 {
-    background-color:antiquewhite;
-    border:2px solid palevioletred;
+    background-color:dodgerblue;
+    border:2px solid white;
     width:500px;
     margin-left:auto;
     margin-right:auto;
